@@ -1,8 +1,12 @@
 
 git init
 
+# 2. every time to add
 git add .
+
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/Wadud2022/wadud-s-first-github.git
 git push -u origin main
+!   ghjghjghjmhgmgh,
+<!>     ``LOREM
